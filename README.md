@@ -1,4 +1,4 @@
-# JP Morgan Quantitative Research Virtual Experience
+﻿# JP Morgan Quantitative Research Virtual Experience
 
 ## Overview
 This repository contains my solutions and project files for the **JPMorgan Chase & Co. Quantitative Research** virtual experience program. The program simulates the day-to-day responsibilities of a Quantitative Researcher, ranging from pricing commodity contracts to analyzing retail banking credit risk. 
